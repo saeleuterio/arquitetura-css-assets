@@ -1,8 +1,8 @@
 .banner__titulo {
     color: #fdfdfd;
     font-family: Pacifico, cursive;
-    position: absolute;
     left: 50%;
+    position: absolute;
     text-shadow: 0 4px 4px rgba(0, 0, 0, 0.75);
     top: 50%;
     text-align: center;
